@@ -1,0 +1,80 @@
+{
+  "named": "170+",
+  "namedSource": "https://www.bbc.com/news/world-us-canada-68129417",
+  "namedSourceLabel": "BBC News",
+
+  "quote": "Epstein didn't kill himself.",
+  "quoteSource": "https://yourwebsite.com",
+  "quoteSourceLabel": "The Files",
+
+  "arrests": "1",
+  "arrestsSource": "https://apnews.com/article/ghislaine-maxwell-convicted",
+  "arrestsSourceLabel": "AP News",
+
+  "victims": "100+",
+  "victimsSource": "https://www.reuters.com",
+  "victimsSourceLabel": "Reuters",
+
+  "breakingNews": false,
+  "breakingHeadline": "",
+  "breakingURL": "",
+
+  "keyFigures": [
+    {
+      "name": "Jeffrey Epstein",
+      "role": "Financier & Predator",
+      "detail": "Sex trafficker who abused dozens of minors over decades. Died in federal custody on August 10, 2019. His death was ruled a suicide, though many dispute the official findings.",
+      "status": "deceased",
+      "photoURL": "https://raw.githubusercontent.com/YOURUSERNAME/thefiles-data/main/figures/epstein.jpg"
+    },
+    {
+      "name": "Ghislaine Maxwell",
+      "role": "Convicted Accomplice",
+      "detail": "Convicted in December 2021 on five federal counts including sex trafficking of minors. Sentenced to 20 years in federal prison. Currently serving her sentence.",
+      "status": "convicted",
+      "photoURL": "https://raw.githubusercontent.com/YOURUSERNAME/thefiles-data/main/figures/maxwell.jpg"
+    },
+    {
+      "name": "Prince Andrew",
+      "role": "Associated Individual",
+      "detail": "Duke of York. Stepped down from royal duties in November 2019 following his disastrous BBC interview about Epstein. Settled a civil lawsuit with Virginia Giuffre in 2022 for an undisclosed sum.",
+      "status": "associated",
+      "photoURL": "https://raw.githubusercontent.com/YOURUSERNAME/thefiles-data/main/figures/andrew.jpg"
+    },
+    {
+      "name": "Alexander Acosta",
+      "role": "Former U.S. Labor Secretary",
+      "detail": "As U.S. Attorney for Southern Florida, Acosta negotiated Epstein's controversial 2008 plea deal, which critics called a sweetheart deal. Resigned as Labor Secretary in July 2019 following public outcry.",
+      "status": "investigated",
+      "photoURL": "https://raw.githubusercontent.com/YOURUSERNAME/thefiles-data/main/figures/acosta.jpg"
+    },
+    {
+      "name": "Les Wexner",
+      "role": "Billionaire Associate",
+      "detail": "Founder of L Brands and Victoria's Secret. Gave Epstein sweeping power of attorney and transferred his Manhattan mansion to him. Has denied knowledge of Epstein's crimes.",
+      "status": "associated",
+      "photoURL": "https://raw.githubusercontent.com/YOURUSERNAME/thefiles-data/main/figures/wexner.jpg"
+    },
+    {
+      "name": "Virginia Giuffre",
+      "role": "Survivor & Activist",
+      "detail": "One of Epstein's most prominent survivors. Filed lawsuits against Maxwell, Prince Andrew, and others. Her testimony was central to Maxwell's conviction. Has advocated tirelessly for other victims.",
+      "status": "associated",
+      "photoURL": "https://raw.githubusercontent.com/YOURUSERNAME/thefiles-data/main/figures/giuffre.jpg"
+    },
+    {
+      "name": "Alan Dershowitz",
+      "role": "Defense Attorney",
+      "detail": "Part of Epstein's legal team that negotiated the 2008 plea deal. Named in civil lawsuits by accusers including Virginia Giuffre. Has denied all allegations against him.",
+      "status": "investigated",
+      "photoURL": "https://raw.githubusercontent.com/YOURUSERNAME/thefiles-data/main/figures/dershowitz.jpg"
+    },
+    {
+      "name": "Bill Barr",
+      "role": "Former Attorney General",
+      "detail": "Oversaw the Department of Justice during Epstein's arrest and subsequent death in 2019. His father Donald Barr hired Epstein to teach at the Dalton School in the 1970s despite Epstein lacking a degree.",
+      "status": "investigated",
+      "photoURL": "https://raw.githubusercontent.com/YOURUSERNAME/thefiles-data/main/figures/barr.jpg"
+    }
+  ]
+}
