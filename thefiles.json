@@ -4,7 +4,7 @@
   "namedSourceLabel": "BBC News",
 
   "quote": "Epstein didn't kill himself.",
-  "quoteSource": "https://yourwebsite.com",
+  "quoteSource": "https://github.com/n6vtr9cv7b-wq/thefiles-data",
   "quoteSourceLabel": "The Files",
 
   "arrests": "1",
@@ -81,7 +81,23 @@
       "role": "Former U.S. President",
       "detail": "Flew on Epstein's private jet multiple times according to flight logs. His office has denied any knowledge of Epstein's crimes.",
       "status": "associated",
-      "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/refs/heads/main/figures/clinton.jpg"
-}
+      "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/figures/clinton.jpg"
+    }
+  ],
+
+  "libraryQuotes": [
+    {
+      "text": "The truth will always come to light.",
+      "author": "Unknown",
+      "category": "Truth"
+    }
+  ],
+
+  "galleryImages": [
+    {
+      "imageURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/gallery/manhattan.jpg",
+      "caption": "Epstein's Manhattan mansion",
+      "category": "Locations"
+    }
   ]
 }
