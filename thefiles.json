@@ -75,6 +75,13 @@
       "detail": "Oversaw the Department of Justice during Epstein's arrest and subsequent death in 2019. His father Donald Barr hired Epstein to teach at the Dalton School in the 1970s despite Epstein lacking a degree.",
       "status": "investigated",
       "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/figures/barr.jpg"
-    }
+    },
+    {
+      "name": "Bill Clinton",
+      "role": "Former U.S. President",
+      "detail": "Flew on Epstein's private jet multiple times according to flight logs. His office has denied any knowledge of Epstein's crimes.",
+      "status": "associated",
+      "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/refs/heads/main/figures/clinton.jpg"
+}
   ]
 }
