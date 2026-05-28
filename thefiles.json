@@ -90,7 +90,12 @@
       "text": "The truth will always come to light.",
       "author": "Unknown",
       "category": "Truth"
-    }
+    },
+    {
+      "text": "What this whole thing is with Epstein is a way of trying to deflect from the tremendous success that the Republican Party has.",
+      "author": "Donald Trump",
+      "category": "Deflection"
+    } 
   ],
 
   "galleryImages": [
@@ -98,6 +103,9 @@
       "imageURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/gallery/manhattan.jpg",
       "caption": "Epstein's Manhattan mansion",
       "category": "Locations"
+    }
+    {
+      "imageURL": "
     }
   ]
 }
