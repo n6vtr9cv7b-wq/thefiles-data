@@ -258,43 +258,302 @@
       "category": "Finance", 
       "photoURL": "" 
     },
-    { "name": "Sergey Brin", "role": "Google Co-Founder", "detail": "Contacted Ghislaine Maxwell about attending dinners at Epstein's home.", "status": "associated", "category": "Tech", "photoURL": "" },
-    { "name": "John Brockman", "role": "Literary Agent & Edge Foundation Founder", "detail": "Epstein was the biggest donor to Brockman's Edge Foundation. Epstein funded numerous private dinners attended by Silicon Valley billionaires. In 2018 Epstein advised Brockman not to care about diversity.", "status": "associated", "category": "Media", "photoURL": "" },
-    { "name": "David Brooks", "role": "NYT Journalist", "detail": "Appears in several photos in the files from a 2011 event with Epstein. Later wrote a 2025 New York Times column dismissing continuing media coverage of Epstein.", "status": "associated", "category": "Media", "photoURL": "" },
-    { "name": "Jean-Luc Brunel", "role": "French Model Scout", "detail": "Founded MC2 Model Management with Epstein's financing. Listed as passenger on Epstein's plane 25 times between 1998-2005. Visited Epstein in jail at least 70 times in 2008. Died in prison in 2022.", "status": "investigated", "category": "Other", "photoURL": "" },
-    { "name": "William Burns", "role": "Former CIA Director", "detail": "Had three meetings with Epstein in 2014 when Burns was deputy secretary of state. CIA stated Epstein was introduced as a financial sector expert offering private sector advice.", "status": "associated", "category": "Intelligence", "photoURL": "" },
-    { "name": "Naomi Campbell", "role": "Supermodel", "detail": "Frequently invited Epstein to lavish events worldwide. Epstein used his association with her to convince people he could help them start modeling careers or get jobs at Victoria's Secret.", "status": "associated", "category": "Entertainment", "photoURL": "" },
-    { "name": "Nick Candy", "role": "Luxury Property Developer", "detail": "Appears in emails from 2004 meeting Epstein associates. In 2010 offered a Knightsbridge property to Epstein for 80 million pounds. Epstein said 'I like both of those guys' about Nick and his brother Christian.", "status": "associated", "category": "Finance", "photoURL": "" },
-    { "name": "Frederic Chaslin", "role": "French Conductor & Composer", "detail": "In a 2013 email wrote to Epstein that he had 'found a great girl for your next stay in Paris. Philosophy student. 21.'", "status": "investigated", "category": "Entertainment", "photoURL": "" },
-    { "name": "Noam Chomsky", "role": "Linguist & Intellectual", "detail": "Met with Epstein multiple times after his conviction. Attended dinners at Epstein's Manhattan townhouse.", "status": "associated", "category": "Academia", "photoURL": "" },
-    { "name": "Bill Clinton", "role": "Former U.S. President", "detail": "Flew on Epstein's private jet multiple times according to flight logs. His office has denied any knowledge of Epstein's crimes.", "status": "associated", "category": "Politics", "photoURL": "" },
-    { "name": "Hillary Clinton", "role": "Former U.S. Secretary of State", "detail": "Named in Epstein files in connection with her husband's association with Epstein. Her office has denied any wrongdoing.", "status": "associated", "category": "Politics", "photoURL": "" },
-    { "name": "Glenn Dubin", "role": "Hedge Fund Manager", "detail": "Married Eva Andersson, Epstein's former girlfriend. The Dubins flew on Epstein's planes at least 18 times between 1996 and 2005. JPMorgan filed suspicious activity reports for Dubin's transactions.", "status": "investigated", "category": "Finance", "photoURL": "" },
-    { "name": "Alan Dershowitz", "role": "Defense Attorney", "detail": "Part of Epstein's legal team that negotiated the controversial 2008 plea deal. Named in civil lawsuits by accusers including Virginia Giuffre. Has denied all allegations.", "status": "investigated", "category": "Other", "photoURL": "" },
-    { "name": "Alexander Acosta", "role": "Former U.S. Labor Secretary", "detail": "As U.S. Attorney for Southern Florida, negotiated Epstein's controversial 2008 plea deal. Resigned as Labor Secretary in July 2019 following public outcry.", "status": "investigated", "category": "Politics", "photoURL": "" },
-    { "name": "Jeffrey Epstein", "role": "Financier & Sex Trafficker", "detail": "Convicted sex offender who abused dozens of minors over decades. Built a vast network of powerful associates. Died in federal custody on August 10, 2019.", "status": "deceased", "category": "Finance", "photoURL": "" },
-    { "name": "Ghislaine Maxwell", "role": "Convicted Accomplice", "detail": "Convicted in December 2021 on five federal counts including sex trafficking of minors. Sentenced to 20 years in federal prison. Currently serving her sentence.", "status": "convicted", "category": "Other", "photoURL": "" },
-    { "name": "Prince Andrew", "role": "Duke of York", "detail": "Stepped down from royal duties in November 2019 following his BBC interview. Settled a civil lawsuit with Virginia Giuffre in 2022 for an undisclosed sum.", "status": "associated", "category": "Royalty", "photoURL": "" },
-    { "name": "Bill Barr", "role": "Former U.S. Attorney General", "detail": "Oversaw the DOJ during Epstein's arrest and death in 2019. His father Donald Barr hired Epstein to teach at the Dalton School in the 1970s despite Epstein lacking a degree.", "status": "investigated", "category": "Politics", "photoURL": "" },
-    { "name": "Les Wexner", "role": "Victoria's Secret Founder", "detail": "Gave Epstein sweeping power of attorney and transferred his Manhattan mansion to him. Paid Epstein tens of millions. Has denied knowledge of Epstein's crimes.", "status": "associated", "category": "Finance", "photoURL": "" },
-    { "name": "Virginia Giuffre", "role": "Survivor & Activist", "detail": "One of Epstein's most prominent survivors. Filed lawsuits against Maxwell, Prince Andrew, and others. Her testimony was central to Maxwell's conviction.", "status": "associated", "category": "Other", "photoURL": "" },
-    { "name": "Reid Hoffman", "role": "LinkedIn Co-Founder", "detail": "Hosted a 2015 dinner in Palo Alto attended by Epstein, Musk, Thiel, and Zuckerberg. Has acknowledged meeting Epstein but denied close ties.", "status": "associated", "category": "Tech", "photoURL": "" },
-    { "name": "Elon Musk", "role": "Tesla & SpaceX CEO", "detail": "Photographed at a 2015 Silicon Valley dinner hosted by Reid Hoffman alongside Epstein. Has stated he never met Epstein and was unaware of his presence at the dinner.", "status": "associated", "category": "Tech", "photoURL": "" },
-    { "name": "Peter Thiel", "role": "PayPal Co-Founder & Palantir Founder", "detail": "Photographed at a 2015 dinner with Epstein. Epstein nudged Ehud Barak to work with Thiel's Palantir in a 2013 recording.", "status": "associated", "category": "Tech", "photoURL": "" },
-    { "name": "Mark Zuckerberg", "role": "Meta CEO", "detail": "Photographed at a 2015 Silicon Valley dinner hosted by Reid Hoffman where Epstein was also present.", "status": "associated", "category": "Tech", "photoURL": "" },
-    { "name": "Larry Summers", "role": "Former U.S. Treasury Secretary", "detail": "Photographed on a private plane alongside Epstein and Woody Allen. Named in emails discussing Federal Reserve chair candidacy.", "status": "associated", "category": "Politics", "photoURL": "" },
-    { "name": "Henry Kissinger", "role": "Former U.S. Secretary of State", "detail": "Referenced in Epstein's emails. Epstein scheduled Ehud Barak to meet a 'Kissinger China guy' in a 2013 email chain.", "status": "associated", "category": "Politics", "photoURL": "" },
-    { "name": "Ariane de Rothschild", "role": "Rothschild Banking Executive", "detail": "Epstein arranged for Ehud Barak to meet with her in 2013.", "status": "associated", "category": "Finance", "photoURL": "" },
-    { "name": "Tom Pritzker", "role": "Hyatt Hotels Chairman", "detail": "Received an email from Epstein describing a 2015 Silicon Valley dinner as 'wild.'", "status": "associated", "category": "Finance", "photoURL": "" },
-    { "name": "Sultan Ahmed bin Sulayem", "role": "Dubai Ports World Chairman", "detail": "Introduced Anil Ambani to Epstein.", "status": "associated", "category": "Finance", "photoURL": "" },
-    { "name": "Terje Rod-Larsen", "role": "Former UN Special Envoy", "detail": "Introduced Borge Brende to Epstein. Photographed at Epstein's New York home with Bannon and Brende.", "status": "associated", "category": "Politics", "photoURL": "" },
-    { "name": "Ari Emanuel", "role": "Hollywood Agent & Endeavor CEO", "detail": "Named in Epstein files. Attended events connected to Epstein's network.", "status": "associated", "category": "Entertainment", "photoURL": "" },
-    { "name": "Marvin Minsky", "role": "MIT AI Pioneer", "detail": "Received funding from Epstein for his MIT Media Lab research. Named in Virginia Giuffre's allegations.", "status": "investigated", "category": "Academia", "photoURL": "" },
-    { "name": "Lawrence Krauss", "role": "Theoretical Physicist", "detail": "Had a years-long friendship with Epstein, who donated to his academic work. Resigned from Arizona State University following misconduct allegations.", "status": "investigated", "category": "Academia", "photoURL": "" },
-    { "name": "Stephen Hawking", "role": "Theoretical Physicist", "detail": "Attended a conference on Epstein's private island in 2006, one year after Epstein's first arrest.", "status": "associated", "category": "Academia", "photoURL": "" },
-    { "name": "Sarah Kellen", "role": "Epstein Associate", "detail": "One of Epstein's closest associates and alleged co-conspirators. Managed logistics for Epstein's activities.", "status": "investigated", "category": "Other", "photoURL": "" },
-    { "name": "Nadia Marcinkova", "role": "Epstein Associate", "detail": "Alleged co-conspirator and Epstein associate. Named in multiple victim testimonies.", "status": "investigated", "category": "Other", "photoURL": "" },
-    { "name": "Lesley Groff", "role": "Epstein Executive Assistant", "detail": "Long-time executive assistant to Epstein. Named as an alleged co-conspirator in court documents.", "status": "investigated", "category": "Other", "photoURL": "" }
+    { 
+      "name": "Sergey Brin", 
+      "role": "Google Co-Founder", 
+      "detail": "Contacted Ghislaine Maxwell about attending dinners at Epstein's home.", 
+      "status": "associated", 
+      "category": "Tech", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "John Brockman", 
+      "role": "Literary Agent & Edge Foundation Founder", 
+      "detail": "Epstein was the biggest donor to Brockman's Edge Foundation. Epstein funded numerous private dinners attended by Silicon Valley billionaires. In 2018 Epstein advised Brockman not to care about diversity.", 
+      "status": "associated", 
+      "category": "Media", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "David Brooks", 
+      "role": "NYT Journalist", 
+      "detail": "Appears in several photos in the files from a 2011 event with Epstein. Later wrote a 2025 New York Times column dismissing continuing media coverage of Epstein.", 
+      "status": "associated", 
+      "category": "Media", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Jean-Luc Brunel", 
+      "role": "French Model Scout", 
+      "detail": "Founded MC2 Model Management with Epstein's financing. Listed as passenger on Epstein's plane 25 times between 1998-2005. Visited Epstein in jail at least 70 times in 2008. Died in prison in 2022.", 
+      "status": "investigated", 
+      "category": "Other", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "William Burns", 
+      "role": "Former CIA Director", 
+      "detail": "Had three meetings with Epstein in 2014 when Burns was deputy secretary of state. CIA stated Epstein was introduced as a financial sector expert offering private sector advice.", 
+      "status": "associated", 
+      "category": "Intelligence", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Naomi Campbell", 
+      "role": "Supermodel",
+      "detail": "Frequently invited Epstein to lavish events worldwide. Epstein used his association with her to convince people he could help them start modeling careers or get jobs at Victoria's Secret.", 
+      "status": "associated", 
+      "category": "Entertainment", 
+      "photoURL": "" 
+    },
+    {
+      "name": "Nick Candy", 
+      "role": "Luxury Property Developer", 
+      "detail": "Appears in emails from 2004 meeting Epstein associates. In 2010 offered a Knightsbridge property to Epstein for 80 million pounds. Epstein said 'I like both of those guys' about Nick and his brother Christian.", 
+      "status": "associated", 
+      "category": "Finance", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Frederic Chaslin", 
+      "role": "French Conductor & Composer", 
+      "detail": "In a 2013 email wrote to Epstein that he had 'found a great girl for your next stay in Paris. Philosophy student. 21.'", 
+      "status": "investigated", 
+      "category": "Entertainment", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Noam Chomsky", 
+      "role": "Linguist & Intellectual", 
+      "detail": "Met with Epstein multiple times after his conviction. Attended dinners at Epstein's Manhattan townhouse.", 
+      "status": "associated", 
+      "category": "Academia", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Bill Clinton", 
+      "role": "Former U.S. President", 
+      "detail": "Flew on Epstein's private jet multiple times according to flight logs. His office has denied any knowledge of Epstein's crimes.", 
+      "status": "associated", 
+      "category": "Politics", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Hillary Clinton", 
+      "role": "Former U.S. Secretary of State", 
+      "detail": "Named in Epstein files in connection with her husband's association with Epstein. Her office has denied any wrongdoing.", 
+      "status": "associated", 
+      "category": "Politics", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Glenn Dubin", 
+      "role": "Hedge Fund Manager", 
+      "detail": "Married Eva Andersson, Epstein's former girlfriend. The Dubins flew on Epstein's planes at least 18 times between 1996 and 2005. JPMorgan filed suspicious activity reports for Dubin's transactions.", 
+      "status": "investigated", 
+      "category": "Finance", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Alan Dershowitz", 
+      "role": "Defense Attorney", 
+      "detail": "Part of Epstein's legal team that negotiated the controversial 2008 plea deal. Named in civil lawsuits by accusers including Virginia Giuffre. Has denied all allegations.", 
+      "status": "investigated", 
+      "category": "Other", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Alexander Acosta", 
+      "role": "Former U.S. Labor Secretary", 
+      "detail": "As U.S. Attorney for Southern Florida, negotiated Epstein's controversial 2008 plea deal. Resigned as Labor Secretary in July 2019 following public outcry.", 
+      "status": "investigated", 
+      "category": "Politics", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Jeffrey Epstein", 
+      "role": "Financier & Sex Trafficker", 
+      "detail": "Convicted sex offender who abused dozens of minors over decades. Built a vast network of powerful associates. Died in federal custody on August 10, 2019.", 
+      "status": "deceased", 
+      "category": "Finance", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Ghislaine Maxwell", 
+      "role": "Convicted Accomplice", 
+      "detail": "Convicted in December 2021 on five federal counts including sex trafficking of minors. Sentenced to 20 years in federal prison. Currently serving her sentence.", 
+      "status": "convicted", 
+      "category": "Other", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Prince Andrew", 
+      "role": "Duke of York", 
+      "detail": "Stepped down from royal duties in November 2019 following his BBC interview. Settled a civil lawsuit with Virginia Giuffre in 2022 for an undisclosed sum.", 
+      "status": "associated", 
+      "category": "Royalty", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Bill Barr",
+      "role": "Former U.S. Attorney General", 
+      "detail": "Oversaw the DOJ during Epstein's arrest and death in 2019. His father Donald Barr hired Epstein to teach at the Dalton School in the 1970s despite Epstein lacking a degree.", 
+      "status": "investigated", 
+      "category": "Politics", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Les Wexner", 
+      "role": "Victoria's Secret Founder", 
+      "detail": "Gave Epstein sweeping power of attorney and transferred his Manhattan mansion to him. Paid Epstein tens of millions. Has denied knowledge of Epstein's crimes.", 
+      "status": "associated", 
+      "category": "Finance", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Virginia Giuffre", 
+      "role": "Survivor & Activist", 
+      "detail": "One of Epstein's most prominent survivors. Filed lawsuits against Maxwell, Prince Andrew, and others. Her testimony was central to Maxwell's conviction.", 
+      "status": "associated", 
+      "category": "Other", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Reid Hoffman", 
+      "role": "LinkedIn Co-Founder", 
+      "detail": "Hosted a 2015 dinner in Palo Alto attended by Epstein, Musk, Thiel, and Zuckerberg. Has acknowledged meeting Epstein but denied close ties.", 
+      "status": "associated", 
+      "category": "Tech", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Elon Musk", 
+      "role": "Tesla & SpaceX CEO", 
+      "detail": "Photographed at a 2015 Silicon Valley dinner hosted by Reid Hoffman alongside Epstein. Has stated he never met Epstein and was unaware of his presence at the dinner.", 
+      "status": "associated", 
+      "category": "Tech", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Peter Thiel", 
+      "role": "PayPal Co-Founder & Palantir Founder", 
+      "detail": "Photographed at a 2015 dinner with Epstein. Epstein nudged Ehud Barak to work with Thiel's Palantir in a 2013 recording.", 
+      "status": "associated", 
+      "category": "Tech", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Mark Zuckerberg", 
+      "role": "Meta CEO", 
+      "detail": "Photographed at a 2015 Silicon Valley dinner hosted by Reid Hoffman where Epstein was also present.",
+      "status": "associated", 
+      "category": "Tech", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Larry Summers", 
+      "role": "Former U.S. Treasury Secretary", 
+      "detail": "Photographed on a private plane alongside Epstein and Woody Allen. Named in emails discussing Federal Reserve chair candidacy.", 
+      "status": "associated", 
+      "category": "Politics", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Henry Kissinger", 
+      "role": "Former U.S. Secretary of State", 
+      "detail": "Referenced in Epstein's emails. Epstein scheduled Ehud Barak to meet a 'Kissinger China guy' in a 2013 email chain.", 
+      "status": "associated", 
+      "category": "Politics", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Ariane de Rothschild", 
+      "role": "Rothschild Banking Executive", 
+      "detail": "Epstein arranged for Ehud Barak to meet with her in 2013.", 
+      "status": "associated", 
+      "category": "Finance", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Tom Pritzker", 
+      "role": "Hyatt Hotels Chairman", 
+      "detail": "Received an email from Epstein describing a 2015 Silicon Valley dinner as 'wild.'", 
+      "status": "associated", 
+      "category": "Finance", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Sultan Ahmed bin Sulayem", 
+      "role": "Dubai Ports World Chairman", 
+      "detail": "Introduced Anil Ambani to Epstein.",
+      "status": "associated", 
+      "category": "Finance", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Terje Rod-Larsen", 
+      "role": "Former UN Special Envoy", 
+      "detail": "Introduced Borge Brende to Epstein. Photographed at Epstein's New York home with Bannon and Brende.",
+      "status": "associated", 
+      "category": "Politics", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Ari Emanuel", 
+      "role": "Hollywood Agent & Endeavor CEO", 
+      "detail": "Named in Epstein files. Attended events connected to Epstein's network.", 
+      "status": "associated", 
+      "category": "Entertainment", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Marvin Minsky", 
+      "role": "MIT AI Pioneer", 
+      "detail": "Received funding from Epstein for his MIT Media Lab research. Named in Virginia Giuffre's allegations.", 
+      "status": "investigated", 
+      "category": "Academia", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Lawrence Krauss", 
+      "role": "Theoretical Physicist", 
+      "detail": "Had a years-long friendship with Epstein, who donated to his academic work. Resigned from Arizona State University following misconduct allegations.", 
+      "status": "investigated", 
+      "category": "Academia", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Stephen Hawking", 
+      "role": "Theoretical Physicist", 
+      "detail": "Attended a conference on Epstein's private island in 2006, one year after Epstein's first arrest.", 
+      "status": "associated", 
+      "category": "Academia", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Sarah Kellen", 
+      "role": "Epstein Associate", 
+      "detail": "One of Epstein's closest associates and alleged co-conspirators. Managed logistics for Epstein's activities.", 
+      "status": "investigated", 
+      "category": "Other", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Nadia Marcinkova", 
+      "role": "Epstein Associate", 
+      "detail": "Alleged co-conspirator and Epstein associate. Named in multiple victim testimonies.", 
+      "status": "investigated", 
+      "category": "Other", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Lesley Groff", 
+      "role": "Epstein Executive Assistant", 
+      "detail": "Long-time executive assistant to Epstein. Named as an alleged co-conspirator in court documents.", 
+      "status": "investigated", 
+      "category": "Other",
+      "photoURL": "" 
+    },
   ],
 
   "libraryQuotes": [
