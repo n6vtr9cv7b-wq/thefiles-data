@@ -25,6 +25,7 @@
       "role": "Financier & Predator",
       "detail": "Sex trafficker who abused dozens of minors over decades. Died in federal custody on August 10, 2019. His death was ruled a suicide, though many dispute the official findings.",
       "status": "deceased",
+      "category": "Entertainment",
       "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/figures/epstein.jpg"
     },
     {
@@ -32,6 +33,7 @@
       "role": "Convicted Accomplice",
       "detail": "Convicted in December 2021 on five federal counts including sex trafficking of minors. Sentenced to 20 years in federal prison. Currently serving her sentence.",
       "status": "convicted",
+      "category": "Entertainment",
       "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/figures/maxwell.jpg"
     },
     {
@@ -39,6 +41,7 @@
       "role": "Associated Individual",
       "detail": "Duke of York. Stepped down from royal duties in November 2019 following his disastrous BBC interview about Epstein. Settled a civil lawsuit with Virginia Giuffre in 2022 for an undisclosed sum.",
       "status": "associated",
+      "category": "Entertainment",
       "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/figures/andrew.jpg"
     },
     {
@@ -46,6 +49,7 @@
       "role": "Former U.S. Labor Secretary",
       "detail": "As U.S. Attorney for Southern Florida, Acosta negotiated Epstein's controversial 2008 plea deal, which critics called a sweetheart deal. Resigned as Labor Secretary in July 2019 following public outcry.",
       "status": "investigated",
+      "category": "Entertainment",
       "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/figures/acosta.jpg"
     },
     {
@@ -53,6 +57,7 @@
       "role": "Billionaire Associate",
       "detail": "Founder of L Brands and Victoria's Secret. Gave Epstein sweeping power of attorney and transferred his Manhattan mansion to him. Has denied knowledge of Epstein's crimes.",
       "status": "associated",
+      "category": "Entertainment",
       "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/figures/wexner.jpg"
     },
     {
@@ -60,6 +65,7 @@
       "role": "Survivor & Activist",
       "detail": "One of Epstein's most prominent survivors. Filed lawsuits against Maxwell, Prince Andrew, and others. Her testimony was central to Maxwell's conviction. Has advocated tirelessly for other victims.",
       "status": "associated",
+      "category": "Entertainment",
       "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/figures/giuffre.jpg"
     },
     {
@@ -67,6 +73,7 @@
       "role": "Defense Attorney",
       "detail": "Part of Epstein's legal team that negotiated the 2008 plea deal. Named in civil lawsuits by accusers including Virginia Giuffre. Has denied all allegations against him.",
       "status": "investigated",
+      "category": "Entertainment",
       "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/figures/dershowitz.jpg"
     },
     {
@@ -74,6 +81,7 @@
       "role": "Former Attorney General",
       "detail": "Oversaw the Department of Justice during Epstein's arrest and subsequent death in 2019. His father Donald Barr hired Epstein to teach at the Dalton School in the 1970s despite Epstein lacking a degree.",
       "status": "investigated",
+      "category": "Entertainment",
       "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/figures/barr.jpg"
     },
     {
@@ -81,6 +89,7 @@
       "role": "Former U.S. President",
       "detail": "Flew on Epstein's private jet multiple times according to flight logs. His office has denied any knowledge of Epstein's crimes.",
       "status": "associated",
+      "category": "Entertainment",
       "photoURL": "https://raw.githubusercontent.com/n6vtr9cv7b-wq/thefiles-data/main/figures/clinton.jpg"
     },
     { 
