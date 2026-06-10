@@ -154,6 +154,14 @@
       "category": "Academia", 
       "photoURL": "" 
     },
+     { 
+      "name": "Adam Back", 
+      "role": "British cryptographer", 
+      "detail": "Adam Back is a co-founder of blockchain company Blockstream. Back was invited by Epstein to his island in April 2014 and an email sent by Epstein to Amir Taaki indicated that Back visited the island.[28][29] Epstein made a $500,000 investment in Blockstream through an investment fund he co-owned with Joichi Ito in 2014.", 
+      "status": "associated", 
+      "category": "Academia", 
+      "photoURL": "" 
+    },
     { 
       "name": "Doug Band", 
       "role": "Former Clinton Aide", 
@@ -211,6 +219,14 @@
       "photoURL": "" 
     },
     { 
+      "name": "Leonard Blavatnik", 
+      "role": "Businessman", 
+      "detail": "Leonard Blavatnik is a British-American businessman. Blavatnik corresponded with Epstein and was invited to several of his gatherings.[49] In a recorded conversation, Guzel Ganieva, a woman who accused Leon Black of rape, also accused Blavatnik of defamation and ruining her reputation.", 
+      "status": "associated", 
+      "category": "Entertainment", 
+      "photoURL": "" 
+    },
+    { 
       "name": "Todd Boehly", 
       "role": "Chelsea FC Chairman & Businessman", 
       "detail": "Emails from 2011 showed Epstein arranged two meetings with Boehly, then a managing partner at Guggenheim Partners.", 
@@ -232,14 +248,6 @@
       "detail": "Attended a 2015 Silicon Valley dinner hosted by Reid Hoffman where Epstein also photographed himself with Musk, Thiel, and Zuckerberg.", 
       "status": "associated", 
       "category": "Academia", 
-      "photoURL": "" 
-    },
-    { 
-      "name": "Richard Branson", 
-      "role": "Virgin Group Founder", 
-      "detail": "2013 email exchange with Epstein suggested a familiar relationship. Branson wrote: 'Any time you're in the area would love to see you. As long as you bring your harem!'", 
-      "status": "associated", 
-      "category": "Finance", 
       "photoURL": "" 
     },
     { 
@@ -275,19 +283,19 @@
       "photoURL": "" 
     },
     { 
-      "name": "David Brooks", 
-      "role": "NYT Journalist", 
-      "detail": "Appears in several photos in the files from a 2011 event with Epstein. Later wrote a 2025 New York Times column dismissing continuing media coverage of Epstein.", 
-      "status": "associated", 
-      "category": "Media", 
-      "photoURL": "" 
-    },
-    { 
       "name": "Jean-Luc Brunel", 
       "role": "French Model Scout", 
       "detail": "Founded MC2 Model Management with Epstein's financing. Listed as passenger on Epstein's plane 25 times between 1998-2005. Visited Epstein in jail at least 70 times in 2008. Died in prison in 2022.", 
       "status": "investigated", 
       "category": "Other", 
+      "photoURL": "" 
+    },
+    { 
+      "name": "Albert Bryan Jr.", 
+      "role": "Governor", 
+      "detail": "Albert Bryan Jr. is the Governor of the United States Virgin Islands. Epstein reached out to Bryan about an 'unpermitted land clearing.'[63] Bryan denies any wrongdoing in his correspondence.", 
+      "status": "investigated", 
+      "category": "Government", 
       "photoURL": "" 
     },
     { 
@@ -314,20 +322,20 @@
       "category": "Finance", 
       "photoURL": "" 
     },
+    {
+      "name": "Noam Chomsky", 
+      "role": "Linguist", 
+      "detail": " In a 2015 email, Epstein offered Chomsky use of his residences in New York and New Mexico.[69] An undated photograph showed Chomsky seated next to Epstein on a plane. Chomsky wrote a letter praising Epstein and recounted how he had arranged for him to meet Barak. Chomsky hired Epstein as a financial advisor, to recover some retirement funds and to advise him on resolving a dispute he had with his children over control of a marital trust. To this end, in March 2018, Epstein transferred approximately $270,000 to Chomsky. After Virginia Giuffre's accusations in 2019, Chomsky told Epstein that commenting would cause additional negative attention. In 2026, Chomsky's wife wrote a public apology on behalf of them both.", 
+      "status": "associated", 
+      "category": "Academia", 
+      "photoURL": "" 
+    },
     { 
       "name": "Frederic Chaslin", 
       "role": "French Conductor & Composer", 
       "detail": "In a 2013 email wrote to Epstein that he had 'found a great girl for your next stay in Paris. Philosophy student. 21.'", 
       "status": "investigated", 
       "category": "Entertainment", 
-      "photoURL": "" 
-    },
-    { 
-      "name": "Noam Chomsky", 
-      "role": "Linguist & Intellectual", 
-      "detail": "Met with Epstein multiple times after his conviction. Attended dinners at Epstein's Manhattan townhouse.", 
-      "status": "associated", 
-      "category": "Academia", 
       "photoURL": "" 
     },
     { 
